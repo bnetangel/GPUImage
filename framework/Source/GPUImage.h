@@ -32,3 +32,4 @@
 #import "GPUImageDarkenBlendFilter.h"
 #import "GPUImageLightenBlendFilter.h"
 #import "GPUImageSwirlFilter.h"
+#import "GPUImageGaussianBlurFilter.h"
